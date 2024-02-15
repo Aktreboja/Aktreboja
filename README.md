@@ -32,13 +32,13 @@ I'm Aldrich Reboja, a passionate Software Engineer.
   
   <a href="https://github.com/AldrichhhXO/spotify">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AldrichhhXO&repo=spotify&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AldrichhhXO&repo=spotify&theme=city_lights" />
   
   </a>  
   
   <a href="https://github.com/AldrichhhXO/7YearsLater">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AldrichhhXO&repo=7YearsLater&theme=tokyonight" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AldrichhhXO&repo=7YearsLater&theme=city_lights" />  
   </a>  
 </div>
 
