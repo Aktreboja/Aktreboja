@@ -3,10 +3,10 @@
  <p/>
 <h1 align="center"> Hi! I'm Aldrich, Thank you for stopping by <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AldrichhhXO0&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Aktreboja0&color=blue" alt="Profile views" />
   &nbsp;
   <a href="https://github.com/Pepyn0?tab=followers">
-    <img src="https://img.shields.io/github/followers/AldrichhhXO?style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/Aktreboja?style=social" alt="Followers" />
   </a>
 </p>
 
@@ -30,13 +30,13 @@ I'm Aldrich Reboja, a passionate Software Engineer.
 <div>
 
   
-  <a href="https://github.com/AldrichhhXO/spotify">
+  <a href="https://github.com/Aktreboja/spotify">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aktreboja&repo=spotify&theme=city_lights" />
   
   </a>  
   
-  <a href="https://github.com/AldrichhhXO/7YearsLater">
+  <a href="https://github.com/Aktreboja/7YearsLater">
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aktreboja&repo=7YearsLater&theme=city_lights" />  
   </a>  
@@ -67,11 +67,11 @@ I'm Aldrich Reboja, a passionate Software Engineer.
 
 ### ⚙️ &nbsp; Git Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldrichhhXO&theme=dark&layout=compact" width="410" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AldrichhhXO&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aktreboja&theme=dark&layout=compact" width="410" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aktreboja&theme=dark&show_icons=true" /></p>
 
 
 ------
-Credit: [AldrichhhXO](https://github.com/AldrichhhXO)
+Credit: [Aktreboja](https://github.com/Aktreboja)
 
 Last Edited on: Feburary 14, 2024
