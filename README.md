@@ -14,8 +14,8 @@ I'm Aldrich Reboja, a passionate Software Engineer.
 
 
 - :world_map: Based in the San Francisco Bay Area.
-- :computer: Currently working on a music themed Social Media Platform (Powered by Spotify's Web API) 
-- :hammer: Experienced at building Full Stack applications with React, NextJS, and AWS
+- :computer: Currently working on a business sharing platform (powered by Yelp's fusion API) 
+- :hammer: Experienced at building Full Stack applications with React, Next.js, and AWS
 - 🤔 Currently looking for the next full time Software Engineer position.
 - 📖 Interesting in learning more about AI/ML for user specific personalization and optimization.
 - 🎮 Avid [League of Legends](https://www.leagueoflegends.com/en-us/) and [Lost Ark](https://www.playlostark.com/en-us) player
