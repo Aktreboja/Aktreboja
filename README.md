@@ -68,7 +68,7 @@ I'm Aldrich Reboja, a passionate Software Engineer.
 ### ⚙️ &nbsp; Git Analytics
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aktreboja&theme=dark&layout=compact" width="410" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Aktreboja&theme=dark&show_icons=true" /></p>
+
 
 
 ------
