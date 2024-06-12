@@ -17,7 +17,7 @@ I'm Aldrich Reboja, a passionate Software Engineer.
 - :computer: Currently working on a business sharing platform (powered by Yelp's fusion API) 
 - :hammer: Experienced at building Full Stack applications with React, Next.js, and AWS
 - 🤔 Currently looking for the next full time Software Engineer position.
-- 📖 Interesting in learning more about AI/ML for user specific personalization and optimization.
+- 📖 Interested in learning more about AI/ML for user specific personalization and optimization.
 - 🎮 Avid [League of Legends](https://www.leagueoflegends.com/en-us/) and [Lost Ark](https://www.playlostark.com/en-us) player
 - :speech_balloon: Ask me about anything.
 
