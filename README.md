@@ -14,8 +14,7 @@ I'm Aldrich Reboja, a passionate Software Engineer.
 
 
 - :world_map: Based in the San Francisco Bay Area.
-- :computer: Currently working on a business sharing platform (powered by Yelp's fusion API) 
-- :hammer: Experienced at building Full Stack applications with React, Next.js, and AWS
+- :hammer: Experienced at building Full Stack applications with React, and TypeScript
 - 🤔 Currently looking for the next full time Software Engineer position.
 - 📖 Interested in learning more about AI/ML for user specific personalization and optimization.
 - 🎮 Avid [League of Legends](https://www.leagueoflegends.com/en-us/) and [Lost Ark](https://www.playlostark.com/en-us) player
@@ -26,23 +25,7 @@ I'm Aldrich Reboja, a passionate Software Engineer.
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aktreboja/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:aktreboja@gmail.com)
 
-## Projects
-<div>
 
-  
-  <a href="https://github.com/Aktreboja/spotify">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aktreboja&repo=spotify&theme=city_lights" />
-  
-  </a>  
-  
-  <a href="https://github.com/Aktreboja/7YearsLater">
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Aktreboja&repo=7YearsLater&theme=city_lights" />  
-  </a>  
-</div>
-
-<div>
 
   ## 🛠️ &nbsp;My Tech Stack
 
@@ -61,16 +44,10 @@ I'm Aldrich Reboja, a passionate Software Engineer.
   ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat&logo=mongodb&logoColor=green)&nbsp;
 </div>
 
-
 <hr>
-
 
 ### ⚙️ &nbsp; Git Analytics
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aktreboja&theme=dark&layout=compact" width="410" /></p>
 
-
-
-------
-Credit: [Aktreboja](https://github.com/Aktreboja)
 
